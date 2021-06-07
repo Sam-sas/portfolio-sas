@@ -1,4 +1,4 @@
-# portfolio-shepard
+# portfolio-shepard WIP
 
 ## Project setup
 ```
